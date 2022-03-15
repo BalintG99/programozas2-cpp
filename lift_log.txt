@@ -1,0 +1,71 @@
+A lift elindul, uticel: 13
+A liftajto kinyilik a 13. emeleten 
+
+A liftajto becsukodik a 13. emeleten
+A lift elindul, uticel: 11
+A liftajto kinyilik a 11. emeleten 
+
+A liftajto becsukodik a 11. emeleten
+A lift elindul, uticel: 14
+A liftajto kinyilik a 14. emeleten 
+
+A liftajto becsukodik a 14. emeleten
+A lift elindul, uticel: 17
+A liftajto kinyilik a 17. emeleten 
+
+A liftajto becsukodik a 17. emeleten
+A lift elindul, uticel: 1
+A liftajto kinyilik a 1. emeleten 
+
+A liftajto becsukodik a 1. emeleten
+A lift elindul, uticel: 2
+A liftajto kinyilik a 2. emeleten 
+
+A liftajto becsukodik a 2. emeleten
+A lift elindul, uticel: 3
+A liftajto kinyilik a 3. emeleten 
+
+A liftajto becsukodik a 3. emeleten
+A lift elindul, uticel: 7
+A liftajto kinyilik a 7. emeleten 
+
+A liftajto becsukodik a 7. emeleten
+A lift elindul, uticel: 10
+A liftajto kinyilik a 10. emeleten 
+
+A liftajto becsukodik a 10. emeleten
+A lift elindul, uticel: 11
+A liftajto kinyilik a 11. emeleten 
+
+A liftajto becsukodik a 11. emeleten
+A lift elindul, uticel: 12
+A liftajto kinyilik a 12. emeleten 
+
+A liftajto becsukodik a 12. emeleten
+A lift elindul, uticel: 14
+A liftajto kinyilik a 14. emeleten 
+
+A liftajto becsukodik a 14. emeleten
+A lift elindul, uticel: 13
+A liftajto kinyilik a 13. emeleten 
+
+A liftajto becsukodik a 13. emeleten
+A lift elindul, uticel: 17
+A liftajto kinyilik a 17. emeleten 
+
+A liftajto becsukodik a 17. emeleten
+A lift elindul, uticel: 18
+A liftajto kinyilik a 18. emeleten 
+
+A liftajto becsukodik a 18. emeleten
+A lift elindul, uticel: 14
+A liftajto kinyilik a 14. emeleten 
+
+A liftajto becsukodik a 14. emeleten
+A lift elindul, uticel: 1
+A liftajto kinyilik a 1. emeleten 
+
+A liftajto becsukodik a 1. emeleten
+A lift elindul, uticel: 0
+A liftajto kinyilik a 0. emeleten 
+
